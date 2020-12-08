@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Trace Recorder Library for Tracealyzer v4.1.4
+ * Trace Recorder Library for Tracealyzer v4.4.0
  * Percepio AB, www.percepio.com
  *
  * trcSnapshotConfig.h
